@@ -1,0 +1,2 @@
+for letter in'prograne':
+    print('current letters :',letter)
